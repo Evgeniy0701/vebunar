@@ -1,0 +1,404 @@
+Uri: https://launch0-100.com.ua/
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\index.htm
+Content Type: text/html
+
+Uri: https://launch0-100.com.ua/css/style.css?version=123456
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\css\style.css
+Content Type: text/css
+
+Uri: https://launch0-100.com.ua/fonts/CynthoNext-Bold.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\CynthoNext-Bold.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/fonts/CynthoNext-Light.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\CynthoNext-Light.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/fonts/CynthoNext-Regular.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\CynthoNext-Regular.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/fonts/HelveticaNeueCyr-Bold.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\HelveticaNeueCyr-Bold.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/fonts/HelveticaNeueCyr-Light.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\HelveticaNeueCyr-Light.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/fonts/HelveticaNeueCyr-Medium.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\HelveticaNeueCyr-Medium.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/fonts/HelveticaNeueCyr-Roman.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\HelveticaNeueCyr-Roman.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/fonts/PFDinTextCompPro-Light.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\PFDinTextCompPro-Light.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/fonts/PFDinTextCompPro-LightItal.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\PFDinTextCompPro-LightItal.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/fonts/PFDinTextCompPro-MedItal.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\PFDinTextCompPro-MedItal.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/fonts/PFDinTextCompPro-Medium.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\PFDinTextCompPro-Medium.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/fonts/PFDinTextCompPro-Regular.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\PFDinTextCompPro-Regular.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/fonts/PFDinTextCompPro-Thin.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\PFDinTextCompPro-Thin.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/fonts/PFDinTextCompPro-ThinItal.woff
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\fonts\PFDinTextCompPro-ThinItal.woff
+Content Type: font/woff
+
+Uri: https://launch0-100.com.ua/img/author/img1.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\author\img1.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/author/img2.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\author\img2.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/author/img3.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\author\img3.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/author/img4.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\author\img4.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/author/pc-bg.jpg?v=123
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\author\pc-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/author/xs-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\author\xs-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/choice/img1-xs.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\choice\img1-xs.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/choice/img1.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\choice\img1.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/choice/img2-xs.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\choice\img2-xs.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/choice/img2.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\choice\img2.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/choice/pc-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\choice\pc-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/curses__section/curses__bg-xs.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\curses__section\curses__bg-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/curses__section/curses__bg.jpg?v=123
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\curses__section\curses__bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/curses__section/curses__left-1.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\curses__section\curses__left-1.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/curses__section/curses__left-2.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\curses__section\curses__left-2.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/curses__section/curses__left-3.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\curses__section\curses__left-3.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/curses__section/curses__left-4.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\curses__section\curses__left-4.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/curses__section/curses__rigth-1.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\curses__section\curses__rigth-1.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/curses__section/curses__rigth-2.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\curses__section\curses__rigth-2.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/curses__section/curses__rigth-3.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\curses__section\curses__rigth-3.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/curses__section/curses__rigth-4.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\curses__section\curses__rigth-4.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/draw/pc-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\draw\pc-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/draw/trigger-pc-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\draw\trigger-pc-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/draw/trigger-xs-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\draw\trigger-xs-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/footer/author.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\footer\author.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/footer/logo.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\footer\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/get__section/3 User.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\3 User.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/get__section/folder.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\folder.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/get__section/get__item__1-bg-xs.jpg?v=123
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\get__item__1-bg-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/get__section/get__item__1-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\get__item__1-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/get__section/get__item__2-bg-xs.jpg?v=123
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\get__item__2-bg-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/get__section/get__item__2-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\get__item__2-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/get__section/get__item__3-bg-xs.jpg?v=123
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\get__item__3-bg-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/get__section/get__item__3-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\get__item__3-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/get__section/get__item__4-bg-xs.jpg?v=123
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\get__item__4-bg-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/get__section/get__item__4-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\get__item__4-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/get__section/get__item__5-bg-xs.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\get__item__5-bg-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/get__section/get__item__5-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\get__item__5-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/get__section/get__section-bg-xs.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\get__section-bg-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/get__section/get__section-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\get__section-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/get__section/Password.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\Password.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/get__section/telega.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\telega.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/get__section/Work.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\get__section\Work.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/icons/close.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\icons\close.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/icons/program__arrow.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\icons\program__arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/intro__section/Check__Folder.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\intro__section\Check__Folder.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/intro__section/Clipboard.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\intro__section\Clipboard.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/intro__section/Dial__Pad.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\intro__section\Dial__Pad.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/intro__section/Hourglass.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\intro__section\Hourglass.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/intro__section/intro__bg-xs.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\intro__section\intro__bg-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/intro__section/intro__bg.jpg?v=123
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\intro__section\intro__bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/intro__section/logo.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\intro__section\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/intro__section/menu__burger.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\intro__section\menu__burger.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/intro__section/user.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\intro__section\user.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/program/icon.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\program\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/program/message.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\program\message.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/program/pc-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\program\pc-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/program/play.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\program\play.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/program/video.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\program\video.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/result__section/dollar.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\dollar.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/result__section/key.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\key.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/result__section/lock.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\lock.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/result__section/result__bg-xs.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\result__bg-xs.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/result__section/result__bg.jpg?v=123
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\result__bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/result__section/result__item__1-bg-xs.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\result__item__1-bg-xs.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/result__section/result__item__1-bg.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\result__item__1-bg.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/result__section/result__item__2-bg-xs.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\result__item__2-bg-xs.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/result__section/result__item__2-bg.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\result__item__2-bg.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/result__section/result__item__3-bg-xs.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\result__item__3-bg-xs.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/result__section/result__item__3-bg.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\result__item__3-bg.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/result__section/result__item__4-bg-xs.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\result__item__4-bg-xs.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/result__section/result__item__4-bg.png
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\result__item__4-bg.png
+Content Type: image/png
+
+Uri: https://launch0-100.com.ua/img/result__section/three__dots.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\result__section\three__dots.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/secret/pc-bg.jpg?v=123
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\secret\pc-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/secret/xs-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\secret\xs-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/img/tariff/icon1.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\tariff\icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/tariff/icon11.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\tariff\icon11.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/tariff/icon2.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\tariff\icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/tariff/icon22.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\tariff\icon22.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/tariff/list-icon.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\tariff\list-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/tariff/list-icon2.svg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\tariff\list-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://launch0-100.com.ua/img/tariff/pc-bg.jpg
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\img\tariff\pc-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://launch0-100.com.ua/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://launch0-100.com.ua/js/main.js?version=123456
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\js\main.js
+Content Type: application/javascript
+
+Uri: https://launch0-100.com.ua/oferta.html
+File Name: C:\Downloaded Web Sites\launch0-100.com.ua\oferta.html
+Content Type: text/html
+
